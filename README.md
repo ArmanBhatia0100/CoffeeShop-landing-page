@@ -2,6 +2,10 @@
 
 Welcome to the CoffeeShop Landing Page project! ☕️ This project is a responsive and visually appealing website landing page for a coffee shop, designed using HTML, CSS, JavaScript, and SCSS.
 
+![Screenshot](coffeemaster.png)
+![Screenshot](coffeemaster2.png)
+![Screenshot](coffeemaster3.png)
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
